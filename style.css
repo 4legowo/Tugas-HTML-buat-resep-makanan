@@ -1,0 +1,44 @@
+.body {
+   font-family: Arial, sans-serif;
+   background-color: #f8f8f8;
+}
+.header {
+   background-color: #f36b21;
+   color: #ffffff;
+   padding: 10px;
+}
+.menu {
+   display: flex;
+
+}
+.item {
+   background-color: #f36b21;
+   color: #8bf008;
+   margin: 10px;
+   padding 10px;
+  text-align: center;
+  place-items: center;
+}
+.gambar {
+   display:block;
+   width 600px
+   margin-inline: auto;
+}
+.item {
+   text-align: justify;
+}
+.footer {
+   background-color: #f36b21;
+   color: #ffffff;
+   text-align: center;
+   padding: 10px;
+}
+@media screen (max-width:600px) {
+   .menu, .iyem .resep, {
+     width: 100%;
+     background-color: white;
+     color: black
+   }
+}
+   
+    
